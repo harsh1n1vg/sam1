@@ -1,1 +1,2 @@
 hi
+git remote set-url origin https://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@github.com/harsh1n1vg/sam1
